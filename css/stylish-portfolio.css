@@ -160,7 +160,13 @@ hr.small {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
-   color: White;
+
+}
+h1 {
+color:white;
+}
+h3 {
+color:white;
 }
 
 /* About */
